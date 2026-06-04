@@ -3,18 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirza Mubashir Ali Baig</h1>
-
 <h3 align="center">A passionate Data Scientist focused on Generative AI, Agentic AI, and building intelligent solutions for real-world problems.</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Scientist;Generative+AI+Enthusiast;Agentic+AI+Explorer;Building+Real+World+AI+Solutions" />
-</p>
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MirzaMubashir0713&label=Profile%20views&color=0e75b6&style=flat" alt="MirzaMubashir0713" />
+  <img src="https://komarev.com/ghpvc/?username=mirzamubashir0713&label=Profile%20views&color=0e75b6&style=flat" alt="mirzamubashir0713" />
 </p>
-
----
 
 - 🌱 I’m currently learning **Data Science and exploring Pandas, NumPy, Matplotlib, LangChain, and LangGraph**
 
@@ -25,8 +18,6 @@
 - 📫 How to reach me **mubashirali0713@gmail.com**
 
 - ⚡ Fun fact **I love exploring how data and AI can solve real-world problems**
-
----
 
 <h3 align="left">Connect with me:</h3>
 
@@ -39,8 +30,6 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -78,28 +67,4 @@
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
 </a>
 
-</p>
-
----
-
-<h3 align="left">Skills:</h3>
-
-<p align="left">
-Data Science • Data Analysis • Machine Learning • Data Visualization • Problem Solving • AI Applications • LangChain • LangGraph
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMubashir0713&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirzaMubashir0713&show_icons=true&locale=en&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMubashir0713&theme=tokyonight" />
 </p>
