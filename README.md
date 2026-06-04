@@ -1,95 +1,105 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MirzaMubashir0713/MirzaMubashir0713/main/BANNER.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/MirzaMubashir0713/MirzaMubashir0713/main/BANNER.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mirza Mubashir Ali Baig</h1>
 
+<h3 align="center">A passionate Data Scientist focused on Generative AI, Agentic AI, and building intelligent solutions for real-world problems.</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Scientist;Generative+AI+Explorer;Agentic+AI+Builder;Turning+Data+into+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Scientist;Generative+AI+Enthusiast;Agentic+AI+Explorer;Building+Real+World+AI+Solutions" />
 </p>
-
-<h3 align="center">
-Data Scientist | Generative AI | Agentic AI | Building Intelligent Real-World Solutions 🚀
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Data Science, Pandas, NumPy, Matplotlib, LangChain, LangGraph**
-- 💬 Ask me about **Data Science, AI, Machine Learning, Problem Solving**
-- 👨‍💻 Projects: https://github.com/MirzaMubashir0713
-- 📫 Reach me: **mubashirali0713@gmail.com**
-- ⚡ Fun fact: I love turning raw data into real-world solutions
-
----
-
-## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/mirza-mubashir-ali-baig">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://instagram.com/iam.mubashiir">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=MirzaMubashir0713&label=Profile%20views&color=0e75b6&style=flat" alt="MirzaMubashir0713" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+- 🌱 I’m currently learning **Data Science and exploring Pandas, NumPy, Matplotlib, LangChain, and LangGraph**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
-</p>
+- 👨‍💻 All of my projects are available at **https://github.com/MirzaMubashir0713**
 
----
+- 💬 Ask me about **Data Science, problem-solving with data, AI applications, and transforming ideas into intelligent solutions**
 
-## 📊 GitHub Stats
+- 📫 How to reach me **mubashirali0713@gmail.com**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MirzaMubashir0713&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMubashir0713&layout=compact&theme=tokyonight" />
-</p>
+- ⚡ Fun fact **I love exploring how data and AI can solve real-world problems**
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMubashir0713&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MirzaMubashir0713&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MirzaMubashir0713&theme=algolia&row=1&column=6" />
-</p>
-
----
-
-## 👀 Profile Views
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=MirzaMubashir0713&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://www.linkedin.com/in/mirza-mubashir-ali-baig/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/iam.mubashiir" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## ⭐ Closing
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-🚀 Always learning | Building | Exploring AI
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
+
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="left">Skills:</h3>
+
+<p align="left">
+Data Science • Data Analysis • Machine Learning • Data Visualization • Problem Solving • AI Applications • LangChain • LangGraph
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMubashir0713&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MirzaMubashir0713&show_icons=true&locale=en&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMubashir0713&theme=tokyonight" />
 </p>
