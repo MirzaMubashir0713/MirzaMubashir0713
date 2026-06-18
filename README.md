@@ -73,12 +73,3 @@
 
 ---
 
-<h3 align="left">🔥 Contributions Streak</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMubashir0713&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>Longest Streak: Keep building & growing 🚀</b>
-</p>
